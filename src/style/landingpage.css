@@ -1,0 +1,61 @@
+.myBG {
+    height: 100vh;
+    background: url("../components/asset/image/bg/bg5.png");
+    background-size: cover;
+}
+
+.logo {
+    cursor: pointer;
+}
+
+.intro {
+    height: 380px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    margin-top: 7%;
+    word-wrap: break-word;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 3.5rem;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+}
+
+.trending {
+    height: Auto;
+    background: url("../components/asset/image/bg/bg9.jpg");
+    background-size: cover;
+}
+
+.movieWrapper {}
+
+.movieImage {
+    height: auto;
+    margin: 1rem 1rem;
+    padding: 2.5px;
+    cursor: pointer;
+}
+
+.Image {
+    height: 400px;
+}
+
+.new {
+    height: Auto;
+    background: url("../components/asset/image/bg/bg9.jpg");
+    background-size: cover;
+}
+
+.footer {
+    background-color: black;
+    height: 100px;
+    font-size: 1rem;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
